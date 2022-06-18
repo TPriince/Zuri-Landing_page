@@ -1,1 +1,1 @@
-# Zuri-Landing_page
+# Zuri - Huddle landing page task
