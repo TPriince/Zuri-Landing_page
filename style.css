@@ -61,6 +61,20 @@ button {
 
 .textdiv {
     text-align: center;
+    animation-name: slidein;
+    animation-duration: 1s;
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 100%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
 }
 
 .textdiv h1, .textdiv p {
