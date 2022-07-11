@@ -119,6 +119,7 @@ p {
 
 .wrapper_button:hover {
     cursor: pointer;
+    background-color: hsl(322, 71%, 75%);
 }
 
 .box1 {
@@ -190,6 +191,7 @@ p {
 
 .box4_button:hover {
     cursor: pointer;
+    background-color: hsl(322, 71%, 75%);
 }
 
 footer {
